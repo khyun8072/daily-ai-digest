@@ -1,1 +1,16 @@
-[]
+[
+  {"id": "2604.26649", "type": "paper", "date": "2026-04-30"},
+  {"id": "2604.26768", "type": "paper", "date": "2026-04-30"},
+  {"id": "2604.26483", "type": "paper", "date": "2026-04-30"},
+  {"id": "2604.26209", "type": "paper", "date": "2026-04-30"},
+  {"id": "2604.26760", "type": "paper", "date": "2026-04-30"},
+  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0", "type": "release", "date": "2026-04-30"},
+  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.7.0", "type": "release", "date": "2026-04-30"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.22.0", "type": "release", "date": "2026-04-30"},
+  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.16", "type": "release", "date": "2026-04-30"},
+  {"id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence", "type": "blog", "date": "2026-04-30"},
+  {"id": "https://www.anthropic.com/news/claude-for-creative-work", "type": "blog", "date": "2026-04-30"},
+  {"id": "2603.20957", "type": "community", "date": "2026-04-30"},
+  {"id": "https://firethering.com/granite-4-1-ibm-open-source-model-family/", "type": "community", "date": "2026-04-30"},
+  {"id": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/", "type": "community", "date": "2026-04-30"}
+]
