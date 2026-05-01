@@ -12,5 +12,16 @@
   {"id": "https://www.anthropic.com/news/claude-for-creative-work", "type": "blog", "date": "2026-04-30"},
   {"id": "2603.20957", "type": "community", "date": "2026-04-30"},
   {"id": "https://firethering.com/granite-4-1-ibm-open-source-model-family/", "type": "community", "date": "2026-04-30"},
-  {"id": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/", "type": "community", "date": "2026-04-30"}
+  {"id": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/", "type": "community", "date": "2026-04-30"},
+  {"id": "2604.26940", "type": "paper", "date": "2026-05-01"},
+  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.37-beta", "type": "release", "date": "2026-05-01"},
+  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.17", "type": "release", "date": "2026-05-01"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.22.1", "type": "release", "date": "2026-05-01"},
+  {"id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/", "type": "blog", "date": "2026-05-01"},
+  {"id": "https://huggingface.co/blog/ibm-granite/granite-4-1", "type": "blog", "date": "2026-05-01"},
+  {"id": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/", "type": "community", "date": "2026-05-01"},
+  {"id": "https://twitter.com/theo/status/2049645973350363168", "type": "community", "date": "2026-05-01"},
+  {"id": "https://pu.dev/", "type": "community", "date": "2026-05-01"},
+  {"id": "https://www.youtube.com/watch?v=rJEMaldMyLE", "type": "community", "date": "2026-05-01"},
+  {"id": "https://news.hada.io/harness-engineering", "type": "community", "date": "2026-05-01"}
 ]
