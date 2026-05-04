@@ -23,5 +23,22 @@
   {"id": "https://twitter.com/theo/status/2049645973350363168", "type": "community", "date": "2026-05-01"},
   {"id": "https://pu.dev/", "type": "community", "date": "2026-05-01"},
   {"id": "https://www.youtube.com/watch?v=rJEMaldMyLE", "type": "community", "date": "2026-05-01"},
-  {"id": "https://news.hada.io/harness-engineering", "type": "community", "date": "2026-05-01"}
+  {"id": "https://news.hada.io/harness-engineering", "type": "community", "date": "2026-05-01"},
+  {"id": "2604.27852", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.28142", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.27306", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.27600", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.27599", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.27747", "type": "paper", "date": "2026-05-04"},
+  {"id": "2604.27085", "type": "paper", "date": "2026-05-04"},
+  {"id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro", "type": "release", "date": "2026-05-04"},
+  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1", "type": "release", "date": "2026-05-04"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.23.0", "type": "release", "date": "2026-05-04"},
+  {"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.126", "type": "release", "date": "2026-05-04"},
+  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.0a1", "type": "release", "date": "2026-05-04"},
+  {"id": "https://huggingface.co/blog/deepseekv4", "type": "blog", "date": "2026-05-04"},
+  {"id": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/", "type": "community", "date": "2026-05-04"},
+  {"id": "https://acai.sh/blog/specsmaxxing", "type": "community", "date": "2026-05-04"},
+  {"id": "https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea", "type": "community", "date": "2026-05-04"},
+  {"id": "https://riss.kr/link?id=T17378943", "type": "community", "date": "2026-05-04"}
 ]
