@@ -41,5 +41,19 @@
   {"id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/", "type": "community", "date": "2026-05-07"},
   {"id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents", "type": "community", "date": "2026-05-07"},
   {"id": "https://news.hada.io/topic?id=29219", "type": "community", "date": "2026-05-07"},
-  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"}
+  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"},
+  {"id": "2605.05096", "type": "paper", "date": "2026-05-08"},
+  {"id": "2605.06285", "type": "paper", "date": "2026-05-08"},
+  {"id": "2605.05953", "type": "paper", "date": "2026-05-08"},
+  {"id": "2605.06460", "type": "paper", "date": "2026-05-08"},
+  {"id": "2605.06597", "type": "paper", "date": "2026-05-08"},
+  {"id": "https://github.com/antirez/ds4", "type": "release", "date": "2026-05-08"},
+  {"id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro", "type": "release", "date": "2026-05-08"},
+  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core==0.3.86", "type": "release", "date": "2026-05-08"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.23.2", "type": "release", "date": "2026-05-08"},
+  {"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133", "type": "release", "date": "2026-05-08"},
+  {"id": "https://www.anthropic.com/research/natural-language-autoencoders", "type": "blog", "date": "2026-05-08"},
+  {"id": "https://deepmind.google/blog/alphaevolve-impact/", "type": "blog", "date": "2026-05-08"},
+  {"id": "https://www.anthropic.com/research/donating-open-source-petri", "type": "blog", "date": "2026-05-08"},
+  {"id": "https://ethanding.substack.com/p/claude-code-is-not-making-your-product", "type": "community", "date": "2026-05-08"}
 ]
