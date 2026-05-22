@@ -41,5 +41,22 @@
   {"id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/", "type": "community", "date": "2026-05-07"},
   {"id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents", "type": "community", "date": "2026-05-07"},
   {"id": "https://news.hada.io/topic?id=29219", "type": "community", "date": "2026-05-07"},
-  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"}
+  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"},
+  {"id": "2605.18920", "type": "paper", "date": "2026-05-22"},
+  {"id": "2605.18769", "type": "paper", "date": "2026-05-22"},
+  {"id": "2605.20683", "type": "paper", "date": "2026-05-22"},
+  {"id": "2605.20613", "type": "paper", "date": "2026-05-22"},
+  {"id": "2605.21468", "type": "paper", "date": "2026-05-22"},
+  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0", "type": "release", "date": "2026-05-22"},
+  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.405-beta", "type": "release", "date": "2026-05-22"},
+  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.9.0", "type": "release", "date": "2026-05-22"},
+  {"id": "https://github.com/run-llama/llama_index/releases/tag/v0.14.22", "type": "release", "date": "2026-05-22"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.24.0", "type": "release", "date": "2026-05-22"},
+  {"id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/", "type": "blog", "date": "2026-05-22"},
+  {"id": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/", "type": "blog", "date": "2026-05-22"},
+  {"id": "https://www.anthropic.com/news/widening-conversation-ai", "type": "blog", "date": "2026-05-22"},
+  {"id": "https://blog.simbastack.com", "type": "community", "date": "2026-05-22"},
+  {"id": "https://twitter.com/nottombrown/status/2057194829986300375", "type": "community", "date": "2026-05-22"},
+  {"id": "https://dev.to/ww-w-ai/lorem-ipsum-makes-llms-smarter-no-seriously-1j8l", "type": "community", "date": "2026-05-22"},
+  {"id": "https://github.com/PriorLabs/TabPFN", "type": "community", "date": "2026-05-22"}
 ]
