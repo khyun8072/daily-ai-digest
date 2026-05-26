@@ -41,5 +41,22 @@
   {"id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/", "type": "community", "date": "2026-05-07"},
   {"id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents", "type": "community", "date": "2026-05-07"},
   {"id": "https://news.hada.io/topic?id=29219", "type": "community", "date": "2026-05-07"},
-  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"}
+  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"},
+  {"id": "2605.23702", "type": "paper", "date": "2026-05-26"},
+  {"id": "2605.23310", "type": "paper", "date": "2026-05-26"},
+  {"id": "2605.23572", "type": "paper", "date": "2026-05-26"},
+  {"id": "2605.22829", "type": "paper", "date": "2026-05-26"},
+  {"id": "2605.23857", "type": "paper", "date": "2026-05-26"},
+  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0", "type": "release", "date": "2026-05-26"},
+  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.9.0", "type": "release", "date": "2026-05-26"},
+  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.41-beta", "type": "release", "date": "2026-05-26"},
+  {"id": "https://github.com/run-llama/llama_index/releases/tag/v0.14.22", "type": "release", "date": "2026-05-26"},
+  {"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149", "type": "release", "date": "2026-05-26"},
+  {"id": "https://huggingface.co/blog/ettin-reranker", "type": "blog", "date": "2026-05-26"},
+  {"id": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion", "type": "blog", "date": "2026-05-26"},
+  {"id": "https://huggingface.co/blog/agent-glossary", "type": "blog", "date": "2026-05-26"},
+  {"id": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files", "type": "community", "date": "2026-05-26"},
+  {"id": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910", "type": "community", "date": "2026-05-26"},
+  {"id": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/", "type": "community", "date": "2026-05-26"},
+  {"id": "https://flueframework.com", "type": "community", "date": "2026-05-26"}
 ]
