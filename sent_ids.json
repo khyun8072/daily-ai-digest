@@ -58,5 +58,22 @@
   {"id": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files", "type": "community", "date": "2026-05-26"},
   {"id": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910", "type": "community", "date": "2026-05-26"},
   {"id": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/", "type": "community", "date": "2026-05-26"},
-  {"id": "https://flueframework.com", "type": "community", "date": "2026-05-26"}
+  {"id": "https://flueframework.com", "type": "community", "date": "2026-05-26"},
+  {"id": "2605.25749", "type": "paper", "date": "2026-05-27"},
+  {"id": "2605.23081", "type": "paper", "date": "2026-05-27"},
+  {"id": "2605.25726", "type": "paper", "date": "2026-05-27"},
+  {"id": "2605.25343", "type": "paper", "date": "2026-05-27"},
+  {"id": "2605.24914", "type": "paper", "date": "2026-05-27"},
+  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.42-beta", "type": "release", "date": "2026-05-27"},
+  {"id": "https://huggingface.co/bytedance-research/Lance", "type": "release", "date": "2026-05-27"},
+  {"id": "https://huggingface.co/openbmb/MiniCPM5-1B", "type": "release", "date": "2026-05-27"},
+  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.2", "type": "release", "date": "2026-05-27"},
+  {"id": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/", "type": "blog", "date": "2026-05-27"},
+  {"id": "https://huggingface.co/blog/AlexWortega/borealis", "type": "blog", "date": "2026-05-27"},
+  {"id": "https://huggingface.co/blog/nielsr/paperswithcode-launch", "type": "blog", "date": "2026-05-27"},
+  {"id": "https://news.ycombinator.com/item?id=48278610", "type": "community", "date": "2026-05-27"},
+  {"id": "https://news.ycombinator.com/item?id=48237012", "type": "community", "date": "2026-05-27"},
+  {"id": "https://news.hada.io/topic?id=29847", "type": "community", "date": "2026-05-27"},
+  {"id": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/", "type": "community", "date": "2026-05-27"},
+  {"id": "https://www.digitaltrends.com/cool-tech/chinas-deepseek-trims-the-price-of-flagship-ai-model-by-75-and-it-be-a-huge-shift/", "type": "community", "date": "2026-05-27"}
 ]
