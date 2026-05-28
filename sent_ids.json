@@ -75,5 +75,20 @@
   {"id": "https://news.ycombinator.com/item?id=48237012", "type": "community", "date": "2026-05-27"},
   {"id": "https://news.hada.io/topic?id=29847", "type": "community", "date": "2026-05-27"},
   {"id": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/", "type": "community", "date": "2026-05-27"},
-  {"id": "https://www.digitaltrends.com/cool-tech/chinas-deepseek-trims-the-price-of-flagship-ai-model-by-75-and-it-be-a-huge-shift/", "type": "community", "date": "2026-05-27"}
+  {"id": "https://www.digitaltrends.com/cool-tech/chinas-deepseek-trims-the-price-of-flagship-ai-model-by-75-and-it-be-a-huge-shift/", "type": "community", "date": "2026-05-27"},
+  {"id": "2605.25979", "type": "paper", "date": "2026-05-28"},
+  {"id": "2605.26717", "type": "paper", "date": "2026-05-28"},
+  {"id": "2605.27295", "type": "paper", "date": "2026-05-28"},
+  {"id": "2605.27123", "type": "paper", "date": "2026-05-28"},
+  {"id": "2605.27255", "type": "paper", "date": "2026-05-28"},
+  {"id": "https://github.com/ollama/ollama/releases/tag/v0.30.0", "type": "release", "date": "2026-05-28"},
+  {"id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash", "type": "release", "date": "2026-05-28"},
+  {"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.152", "type": "release", "date": "2026-05-28"},
+  {"id": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B", "type": "release", "date": "2026-05-28"},
+  {"id": "https://huggingface.co/blog/delta-weight-sync", "type": "blog", "date": "2026-05-28"},
+  {"id": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/", "type": "community", "date": "2026-05-28"},
+  {"id": "https://simonwillison.net/2026/May/27/product-market-fit/", "type": "community", "date": "2026-05-28"},
+  {"id": "https://developers.openai.com/codex/use-cases", "type": "community", "date": "2026-05-28"},
+  {"id": "https://arps18.github.io/posts/claude-code-mastery/", "type": "community", "date": "2026-05-28"},
+  {"id": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/", "type": "community", "date": "2026-05-28"}
 ]
