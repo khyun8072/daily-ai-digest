@@ -1,79 +1,472 @@
 [
-  {"id": "2604.26649", "type": "paper", "date": "2026-04-30"},
-  {"id": "2604.26768", "type": "paper", "date": "2026-04-30"},
-  {"id": "2604.26483", "type": "paper", "date": "2026-04-30"},
-  {"id": "2604.26209", "type": "paper", "date": "2026-04-30"},
-  {"id": "2604.26760", "type": "paper", "date": "2026-04-30"},
-  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0", "type": "release", "date": "2026-04-30"},
-  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.7.0", "type": "release", "date": "2026-04-30"},
-  {"id": "https://github.com/ollama/ollama/releases/tag/v0.22.0", "type": "release", "date": "2026-04-30"},
-  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.16", "type": "release", "date": "2026-04-30"},
-  {"id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence", "type": "blog", "date": "2026-04-30"},
-  {"id": "https://www.anthropic.com/news/claude-for-creative-work", "type": "blog", "date": "2026-04-30"},
-  {"id": "2603.20957", "type": "community", "date": "2026-04-30"},
-  {"id": "https://firethering.com/granite-4-1-ibm-open-source-model-family/", "type": "community", "date": "2026-04-30"},
-  {"id": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/", "type": "community", "date": "2026-04-30"},
-  {"id": "2604.26940", "type": "paper", "date": "2026-05-01"},
-  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.37-beta", "type": "release", "date": "2026-05-01"},
-  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.17", "type": "release", "date": "2026-05-01"},
-  {"id": "https://github.com/ollama/ollama/releases/tag/v0.22.1", "type": "release", "date": "2026-05-01"},
-  {"id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/", "type": "blog", "date": "2026-05-01"},
-  {"id": "https://huggingface.co/blog/ibm-granite/granite-4-1", "type": "blog", "date": "2026-05-01"},
-  {"id": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/", "type": "community", "date": "2026-05-01"},
-  {"id": "https://twitter.com/theo/status/2049645973350363168", "type": "community", "date": "2026-05-01"},
-  {"id": "https://pu.dev/", "type": "community", "date": "2026-05-01"},
-  {"id": "https://www.youtube.com/watch?v=rJEMaldMyLE", "type": "community", "date": "2026-05-01"},
-  {"id": "https://news.hada.io/harness-engineering", "type": "community", "date": "2026-05-01"},
-  {"id": "2605.03344", "type": "paper", "date": "2026-05-07"},
-  {"id": "2605.01284", "type": "paper", "date": "2026-05-07"},
-  {"id": "2605.03275", "type": "paper", "date": "2026-05-07"},
-  {"id": "2605.03534", "type": "paper", "date": "2026-05-07"},
-  {"id": "2605.02369", "type": "paper", "date": "2026-05-07"},
-  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.8.0", "type": "release", "date": "2026-05-07"},
-  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1", "type": "release", "date": "2026-05-07"},
-  {"id": "https://github.com/ollama/ollama/releases/tag/v0.23.1", "type": "release", "date": "2026-05-07"},
-  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.39-beta", "type": "release", "date": "2026-05-07"},
-  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.0a2", "type": "release", "date": "2026-05-07"},
-  {"id": "https://www.anthropic.com/news/higher-limits-spacex", "type": "blog", "date": "2026-05-07"},
-  {"id": "https://huggingface.co/blog/inference-providers-deepinfra", "type": "blog", "date": "2026-05-07"},
-  {"id": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections", "type": "blog", "date": "2026-05-07"},
-  {"id": "http://halupedia.com/", "type": "community", "date": "2026-05-07"},
-  {"id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/", "type": "community", "date": "2026-05-07"},
-  {"id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents", "type": "community", "date": "2026-05-07"},
-  {"id": "https://news.hada.io/topic?id=29219", "type": "community", "date": "2026-05-07"},
-  {"id": "https://news.hada.io/topic?id=29220", "type": "community", "date": "2026-05-07"},
-  {"id": "2605.23702", "type": "paper", "date": "2026-05-26"},
-  {"id": "2605.23310", "type": "paper", "date": "2026-05-26"},
-  {"id": "2605.23572", "type": "paper", "date": "2026-05-26"},
-  {"id": "2605.22829", "type": "paper", "date": "2026-05-26"},
-  {"id": "2605.23857", "type": "paper", "date": "2026-05-26"},
-  {"id": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0", "type": "release", "date": "2026-05-26"},
-  {"id": "https://github.com/huggingface/transformers/releases/tag/v5.9.0", "type": "release", "date": "2026-05-26"},
-  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.41-beta", "type": "release", "date": "2026-05-26"},
-  {"id": "https://github.com/run-llama/llama_index/releases/tag/v0.14.22", "type": "release", "date": "2026-05-26"},
-  {"id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149", "type": "release", "date": "2026-05-26"},
-  {"id": "https://huggingface.co/blog/ettin-reranker", "type": "blog", "date": "2026-05-26"},
-  {"id": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion", "type": "blog", "date": "2026-05-26"},
-  {"id": "https://huggingface.co/blog/agent-glossary", "type": "blog", "date": "2026-05-26"},
-  {"id": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files", "type": "community", "date": "2026-05-26"},
-  {"id": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910", "type": "community", "date": "2026-05-26"},
-  {"id": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/", "type": "community", "date": "2026-05-26"},
-  {"id": "https://flueframework.com", "type": "community", "date": "2026-05-26"},
-  {"id": "2605.25749", "type": "paper", "date": "2026-05-27"},
-  {"id": "2605.23081", "type": "paper", "date": "2026-05-27"},
-  {"id": "2605.25726", "type": "paper", "date": "2026-05-27"},
-  {"id": "2605.25343", "type": "paper", "date": "2026-05-27"},
-  {"id": "2605.24914", "type": "paper", "date": "2026-05-27"},
-  {"id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.42-beta", "type": "release", "date": "2026-05-27"},
-  {"id": "https://huggingface.co/bytedance-research/Lance", "type": "release", "date": "2026-05-27"},
-  {"id": "https://huggingface.co/openbmb/MiniCPM5-1B", "type": "release", "date": "2026-05-27"},
-  {"id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.2", "type": "release", "date": "2026-05-27"},
-  {"id": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/", "type": "blog", "date": "2026-05-27"},
-  {"id": "https://huggingface.co/blog/AlexWortega/borealis", "type": "blog", "date": "2026-05-27"},
-  {"id": "https://huggingface.co/blog/nielsr/paperswithcode-launch", "type": "blog", "date": "2026-05-27"},
-  {"id": "https://news.ycombinator.com/item?id=48278610", "type": "community", "date": "2026-05-27"},
-  {"id": "https://news.ycombinator.com/item?id=48237012", "type": "community", "date": "2026-05-27"},
-  {"id": "https://news.hada.io/topic?id=29847", "type": "community", "date": "2026-05-27"},
-  {"id": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/", "type": "community", "date": "2026-05-27"},
-  {"id": "https://www.digitaltrends.com/cool-tech/chinas-deepseek-trims-the-price-of-flagship-ai-model-by-75-and-it-be-a-huge-shift/", "type": "community", "date": "2026-05-27"}
+  {
+    "id": "2604.26649",
+    "type": "paper",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2604.26768",
+    "type": "paper",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2604.26483",
+    "type": "paper",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2604.26209",
+    "type": "paper",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2604.26760",
+    "type": "paper",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.0",
+    "type": "release",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.7.0",
+    "type": "release",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.22.0",
+    "type": "release",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.16",
+    "type": "release",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "type": "blog",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-for-creative-work",
+    "type": "blog",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2603.20957",
+    "type": "community",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "type": "community",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "type": "community",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "2604.26940",
+    "type": "paper",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.37-beta",
+    "type": "release",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.2.17",
+    "type": "release",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.22.1",
+    "type": "release",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "type": "blog",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "type": "blog",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "type": "community",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://twitter.com/theo/status/2049645973350363168",
+    "type": "community",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://pu.dev/",
+    "type": "community",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://www.youtube.com/watch?v=rJEMaldMyLE",
+    "type": "community",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "https://news.hada.io/harness-engineering",
+    "type": "community",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "2605.03344",
+    "type": "paper",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "2605.01284",
+    "type": "paper",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "2605.03275",
+    "type": "paper",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "2605.03534",
+    "type": "paper",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "2605.02369",
+    "type": "paper",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
+    "type": "release",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1",
+    "type": "release",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.23.1",
+    "type": "release",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.39-beta",
+    "type": "release",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.0a2",
+    "type": "release",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://www.anthropic.com/news/higher-limits-spacex",
+    "type": "blog",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "type": "blog",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "type": "blog",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "http://halupedia.com/",
+    "type": "community",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "type": "community",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+    "type": "community",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=29219",
+    "type": "community",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=29220",
+    "type": "community",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "2605.23702",
+    "type": "paper",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "2605.23310",
+    "type": "paper",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "2605.23572",
+    "type": "paper",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "2605.22829",
+    "type": "paper",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "2605.23857",
+    "type": "paper",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.21.0",
+    "type": "release",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
+    "type": "release",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.41-beta",
+    "type": "release",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://github.com/run-llama/llama_index/releases/tag/v0.14.22",
+    "type": "release",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+    "type": "release",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://huggingface.co/blog/ettin-reranker",
+    "type": "blog",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "type": "blog",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://huggingface.co/blog/agent-glossary",
+    "type": "blog",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+    "type": "community",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+    "type": "community",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "type": "community",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "https://flueframework.com",
+    "type": "community",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "2605.25749",
+    "type": "paper",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "2605.23081",
+    "type": "paper",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "2605.25726",
+    "type": "paper",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "2605.25343",
+    "type": "paper",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "2605.24914",
+    "type": "paper",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.42-beta",
+    "type": "release",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://huggingface.co/bytedance-research/Lance",
+    "type": "release",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://huggingface.co/openbmb/MiniCPM5-1B",
+    "type": "release",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.2",
+    "type": "release",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+    "type": "blog",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://huggingface.co/blog/AlexWortega/borealis",
+    "type": "blog",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://huggingface.co/blog/nielsr/paperswithcode-launch",
+    "type": "blog",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48278610",
+    "type": "community",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48237012",
+    "type": "community",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=29847",
+    "type": "community",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "type": "community",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "https://www.digitaltrends.com/cool-tech/chinas-deepseek-trims-the-price-of-flagship-ai-model-by-75-and-it-be-a-huge-shift/",
+    "type": "community",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "2605.28293",
+    "type": "paper",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "2605.28175",
+    "type": "paper",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "2605.28774",
+    "type": "paper",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "2605.28819",
+    "type": "paper",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "2605.27810",
+    "type": "paper",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.154",
+    "type": "release",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+    "type": "release",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.30.0",
+    "type": "release",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://huggingface.co/sapientinc/HRM-Text-1B",
+    "type": "release",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic==1.4.4",
+    "type": "release",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-opus-4-8",
+    "type": "blog",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/delta-weight-sync",
+    "type": "blog",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://www.anthropic.com/news/series-h",
+    "type": "blog",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48311647",
+    "type": "community",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48313810",
+    "type": "community",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://developers.openai.com/codex/use-cases",
+    "type": "community",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "https://hollandtech.net/claude-is-not-your-architect/",
+    "type": "community",
+    "date": "2026-05-29"
+  }
 ]
