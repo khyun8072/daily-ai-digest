@@ -443,5 +443,135 @@
     "id": "https://news.hada.io/topic?id=29960",
     "type": "community",
     "date": "2026-06-01"
+  },
+  {
+    "id": "2605.25979",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.29250",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.30260",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.27295",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.25378",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.24938",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "2605.26494",
+    "type": "paper",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/LocateAnything-3B",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://github.com/openai/openai-python/releases/tag/v2.40.0",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/Qwen/Qwen3.6-27B",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+    "type": "release",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/blog/huggingface/tito",
+    "type": "blog",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "type": "blog",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "type": "blog",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "type": "blog",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "type": "blog",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48321076",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48353348",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48357075",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48358646",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48317294",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30006",
+    "type": "community",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48338660",
+    "type": "community",
+    "date": "2026-06-02"
   }
 ]
