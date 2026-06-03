@@ -573,5 +573,90 @@
     "id": "https://news.ycombinator.com/item?id=48338660",
     "type": "community",
     "date": "2026-06-02"
+  },
+  {
+    "id": "2606.00422",
+    "type": "paper",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "2606.01504",
+    "type": "paper",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "2606.01782",
+    "type": "paper",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "2606.02437",
+    "type": "paper",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "2606.01670",
+    "type": "paper",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "type": "release",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.161",
+    "type": "release",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://huggingface.co/collections/Hcompany/holo31",
+    "type": "release",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.30.1",
+    "type": "release",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "type": "blog",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://huggingface.co/blog/Hcompany/holo31",
+    "type": "blog",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "type": "blog",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48374466",
+    "type": "community",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48372239",
+    "type": "community",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48375673",
+    "type": "community",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30060",
+    "type": "community",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30061",
+    "type": "community",
+    "date": "2026-06-03"
   }
 ]
