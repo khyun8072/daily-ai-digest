@@ -658,5 +658,95 @@
     "id": "https://news.hada.io/topic?id=30061",
     "type": "community",
     "date": "2026-06-03"
+  },
+  {
+    "id": "2606.03866",
+    "type": "paper",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "2606.03718",
+    "type": "paper",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "2606.02992",
+    "type": "paper",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "2606.03458",
+    "type": "paper",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "2606.00683",
+    "type": "paper",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://huggingface.co/google/gemma-4-12B-it",
+    "type": "release",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.10.1",
+    "type": "release",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.44-beta",
+    "type": "release",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.30.3",
+    "type": "release",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://github.com/ideogram-oss/ideogram4",
+    "type": "release",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "type": "blog",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "type": "blog",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "type": "blog",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48385906",
+    "type": "community",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48383056",
+    "type": "community",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://www.minimax.io/models/text/m3",
+    "type": "community",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48380670",
+    "type": "community",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "https://github.com/zaydmulani09/mnemo",
+    "type": "community",
+    "date": "2026-06-04"
   }
 ]
