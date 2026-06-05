@@ -748,5 +748,95 @@
     "id": "https://github.com/zaydmulani09/mnemo",
     "type": "community",
     "date": "2026-06-04"
+  },
+  {
+    "id": "2606.04944",
+    "type": "paper",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "2606.04909",
+    "type": "paper",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "2606.04300",
+    "type": "paper",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "2606.04603",
+    "type": "paper",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "2606.05016",
+    "type": "paper",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.163",
+    "type": "release",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+    "type": "release",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+    "type": "release",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Cosmos3-Nano",
+    "type": "release",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+    "type": "release",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "type": "blog",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://huggingface.co/blog/hf-cli-for-agents",
+    "type": "blog",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "type": "blog",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48399974",
+    "type": "community",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48405931",
+    "type": "community",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48400842",
+    "type": "community",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48403980",
+    "type": "community",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30158",
+    "type": "community",
+    "date": "2026-06-05"
   }
 ]
