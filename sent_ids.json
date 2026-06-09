@@ -1,95 +1,5 @@
 [
   {
-    "id": "2605.03344",
-    "type": "paper",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "2605.01284",
-    "type": "paper",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "2605.03275",
-    "type": "paper",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "2605.03534",
-    "type": "paper",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "2605.02369",
-    "type": "paper",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://github.com/huggingface/transformers/releases/tag/v5.8.0",
-    "type": "release",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.20.1",
-    "type": "release",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://github.com/ollama/ollama/releases/tag/v0.23.1",
-    "type": "release",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.39-beta",
-    "type": "release",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain==1.3.0a2",
-    "type": "release",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://www.anthropic.com/news/higher-limits-spacex",
-    "type": "blog",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://huggingface.co/blog/inference-providers-deepinfra",
-    "type": "blog",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "type": "blog",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "http://halupedia.com/",
-    "type": "community",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "type": "community",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-    "type": "community",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=29219",
-    "type": "community",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=29220",
-    "type": "community",
-    "date": "2026-05-07"
-  },
-  {
     "id": "2605.23702",
     "type": "paper",
     "date": "2026-05-26"
@@ -748,5 +658,110 @@
     "id": "https://github.com/zaydmulani09/mnemo",
     "type": "community",
     "date": "2026-06-04"
+  },
+  {
+    "id": "2606.07075",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.04944",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.05568",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.07116",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.04547",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.04448",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "2606.07317",
+    "type": "paper",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "type": "release",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1",
+    "type": "release",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.30.7",
+    "type": "release",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.30.6",
+    "type": "release",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://developer.apple.com/documentation/coreai/",
+    "type": "release",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "type": "blog",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://huggingface.co/blog/openenv-agentic-rl",
+    "type": "blog",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://discuss.pytorch.kr/t/2026-06-01-07-ai-ml/10581",
+    "type": "blog",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48446639",
+    "type": "community",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48414653",
+    "type": "community",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "type": "community",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "type": "community",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "type": "community",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48406174",
+    "type": "community",
+    "date": "2026-06-09"
   }
 ]
