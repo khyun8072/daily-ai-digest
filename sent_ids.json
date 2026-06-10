@@ -763,5 +763,85 @@
     "id": "https://news.ycombinator.com/item?id=48406174",
     "type": "community",
     "date": "2026-06-09"
+  },
+  {
+    "id": "2606.07546",
+    "type": "paper",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "2606.09659",
+    "type": "paper",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "2606.08604",
+    "type": "paper",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "2606.09241",
+    "type": "paper",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "2606.05633",
+    "type": "paper",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "type": "release",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
+    "type": "release",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+    "type": "release",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.10.2",
+    "type": "release",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai==1.3.0",
+    "type": "release",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://tech.kakaobank.com/posts/2606-sequence-based-fds-model/",
+    "type": "blog",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48463808",
+    "type": "community",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48467896",
+    "type": "community",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48460863",
+    "type": "community",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48466277",
+    "type": "community",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48462062",
+    "type": "community",
+    "date": "2026-06-10"
   }
 ]
