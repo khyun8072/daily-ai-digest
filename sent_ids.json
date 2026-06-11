@@ -763,5 +763,85 @@
     "id": "https://news.ycombinator.com/item?id=48406174",
     "type": "community",
     "date": "2026-06-09"
+  },
+  {
+    "id": "2606.11023",
+    "type": "paper",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "2606.10759",
+    "type": "paper",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "2606.10697",
+    "type": "paper",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "2606.11052",
+    "type": "paper",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "2606.10572",
+    "type": "paper",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "type": "release",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.45-beta",
+    "type": "release",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core==1.4.4",
+    "type": "release",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://burr.apache.org/",
+    "type": "release",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://www.anthropic.com/policy-on-the-ai-exponential",
+    "type": "blog",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "type": "blog",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48476136",
+    "type": "community",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48479452",
+    "type": "community",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48477400",
+    "type": "community",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48480852",
+    "type": "community",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30328",
+    "type": "community",
+    "date": "2026-06-11"
   }
 ]
