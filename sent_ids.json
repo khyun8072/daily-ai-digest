@@ -763,5 +763,95 @@
     "id": "https://news.ycombinator.com/item?id=48406174",
     "type": "community",
     "date": "2026-06-09"
+  },
+  {
+    "id": "2606.12198",
+    "type": "paper",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "2606.12245",
+    "type": "paper",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "2606.12400",
+    "type": "paper",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "2606.11907",
+    "type": "paper",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "2606.11700",
+    "type": "paper",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
+    "type": "release",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.451-beta",
+    "type": "release",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
+    "type": "release",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+    "type": "release",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+    "type": "release",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://huggingface.co/blog/torch-mlp-fusion",
+    "type": "blog",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "type": "blog",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "type": "blog",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48489917",
+    "type": "community",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48489229",
+    "type": "community",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30378",
+    "type": "community",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48492210",
+    "type": "community",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=30386",
+    "type": "community",
+    "date": "2026-06-12"
   }
 ]
