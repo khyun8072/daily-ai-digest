@@ -763,5 +763,115 @@
     "id": "https://news.ycombinator.com/item?id=48406174",
     "type": "community",
     "date": "2026-06-09"
+  },
+  {
+    "id": "2606.13533",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.12198",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.12245",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.11700",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.10759",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.13392",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "2606.13145",
+    "type": "paper",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.464-beta",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48518684",
+    "type": "release",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://www.anthropic.com/news/fable-mythos-access",
+    "type": "blog",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "type": "blog",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://huggingface.co/blog/Samoed/mteb-v3-leaderboard",
+    "type": "blog",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "type": "blog",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48527297",
+    "type": "community",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48524620",
+    "type": "community",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48528371",
+    "type": "community",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=48527700",
+    "type": "community",
+    "date": "2026-06-15"
   }
 ]
