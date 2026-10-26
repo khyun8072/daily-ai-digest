@@ -83,5 +83,55 @@
     "id": "https://news.hada.io/topic?id=35785",
     "type": "community",
     "date": "2026-10-23"
+  },
+  {
+    "id": "2610.30612",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.30675",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.30177",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.30932",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.30755",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.30423",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "2610.31198",
+    "type": "paper",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "https://huggingface.co/google/embeddinggemma-2",
+    "type": "release",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "type": "release",
+    "date": "2026-10-26"
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "type": "blog",
+    "date": "2026-10-26"
   }
 ]
