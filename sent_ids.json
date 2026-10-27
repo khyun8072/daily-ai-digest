@@ -133,5 +133,70 @@
     "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "type": "blog",
     "date": "2026-10-26"
+  },
+  {
+    "id": "2610.32980",
+    "type": "paper",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "2610.24481",
+    "type": "paper",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "2610.31932",
+    "type": "paper",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "2610.32318",
+    "type": "paper",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "2610.27103",
+    "type": "paper",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.21",
+    "type": "release",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.11",
+    "type": "release",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
+    "type": "release",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.911-beta",
+    "type": "release",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "type": "community",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://minimaxir.com/2026/10/cheap-llms/",
+    "type": "community",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "type": "community",
+    "date": "2026-10-27"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36011",
+    "type": "community",
+    "date": "2026-10-27"
   }
 ]
