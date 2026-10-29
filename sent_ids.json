@@ -258,5 +258,65 @@
     "id": "https://news.hada.io/topic?id=36019",
     "type": "community",
     "date": "2026-10-28"
+  },
+  {
+    "id": "2610.36890",
+    "type": "paper",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "2610.37231",
+    "type": "paper",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "2610.36267",
+    "type": "paper",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "2610.37364",
+    "type": "paper",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "2610.37358",
+    "type": "paper",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.912-beta",
+    "type": "release",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+    "type": "release",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+    "type": "release",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "type": "release",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "type": "blog",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36132",
+    "type": "community",
+    "date": "2026-10-29"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36137",
+    "type": "community",
+    "date": "2026-10-29"
   }
 ]
