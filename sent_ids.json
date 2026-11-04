@@ -318,5 +318,90 @@
     "id": "https://news.hada.io/topic?id=36137",
     "type": "community",
     "date": "2026-10-29"
+  },
+  {
+    "id": "2610.42128",
+    "type": "paper",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "2610.16927",
+    "type": "paper",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "2611.00172",
+    "type": "paper",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "2611.02112",
+    "type": "paper",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "2610.32878",
+    "type": "paper",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.22.0",
+    "type": "release",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0",
+    "type": "release",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.914-beta",
+    "type": "release",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.14",
+    "type": "release",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
+    "type": "release",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://huggingface.co/blog/sergiopaniego/mopd-trl",
+    "type": "blog",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://huggingface.co/blog/sirluk/sliding-window-beats-linear-attention",
+    "type": "blog",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://honnibal.dev/blog/astra-read-write-misleading",
+    "type": "community",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50355251",
+    "type": "community",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://github.com/NVIDIA/auto-ontology",
+    "type": "community",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36504",
+    "type": "community",
+    "date": "2026-11-04"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36478",
+    "type": "community",
+    "date": "2026-11-04"
   }
 ]
