@@ -403,5 +403,90 @@
     "id": "https://news.hada.io/topic?id=36478",
     "type": "community",
     "date": "2026-11-04"
+  },
+  {
+    "id": "2611.06323",
+    "type": "paper",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "2611.05908",
+    "type": "paper",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "2611.05799",
+    "type": "paper",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "2611.06349",
+    "type": "paper",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "2611.05596",
+    "type": "paper",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.915-beta",
+    "type": "release",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "type": "release",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+    "type": "release",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.2",
+    "type": "release",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2",
+    "type": "release",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://huggingface.co/blog/allenai/statebench",
+    "type": "blog",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://toss.tech/article/snap-llm-cost-reduction",
+    "type": "blog",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+    "type": "community",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/issues/107757",
+    "type": "community",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://mcp-explained.com/",
+    "type": "community",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "type": "community",
+    "date": "2026-11-06"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36542",
+    "type": "community",
+    "date": "2026-11-06"
   }
 ]
