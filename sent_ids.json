@@ -583,5 +583,85 @@
     "id": "https://news.hada.io/topic?id=36894",
     "type": "community",
     "date": "2026-11-11"
+  },
+  {
+    "id": "2611.13539",
+    "type": "paper",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "2611.13797",
+    "type": "paper",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "2611.13675",
+    "type": "paper",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "2611.13178",
+    "type": "paper",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "2611.13410",
+    "type": "paper",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.917-beta",
+    "type": "release",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.5.0",
+    "type": "release",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.0",
+    "type": "release",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc0",
+    "type": "release",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://huggingface.co/blog/token-pooling",
+    "type": "blog",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://huggingface.co/blog/qvac/botpsy",
+    "type": "blog",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://github.com/huawei-csl/MACaQ",
+    "type": "community",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36935",
+    "type": "community",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50456791",
+    "type": "community",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50458900",
+    "type": "community",
+    "date": "2026-11-12"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36950",
+    "type": "community",
+    "date": "2026-11-12"
   }
 ]
