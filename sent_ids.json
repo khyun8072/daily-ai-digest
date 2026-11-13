@@ -663,5 +663,85 @@
     "id": "https://news.hada.io/topic?id=36950",
     "type": "community",
     "date": "2026-11-12"
+  },
+  {
+    "id": "2609.04961",
+    "type": "paper",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "2611.13069",
+    "type": "paper",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "2608.22237",
+    "type": "paper",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "2611.14469",
+    "type": "paper",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "2611.14418",
+    "type": "paper",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+    "type": "release",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://huggingface.co/Cactus-Compute/mirage",
+    "type": "release",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.1.0",
+    "type": "release",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
+    "type": "release",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://github.com/openai/openai-python/releases/tag/v3.50.0",
+    "type": "release",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "type": "blog",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://huggingface.co/blog/3d-lora-finetuning",
+    "type": "blog",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37011",
+    "type": "community",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://github.com/hyperionaidev/smolmaxxing/",
+    "type": "community",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50471431",
+    "type": "community",
+    "date": "2026-11-13"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37034",
+    "type": "community",
+    "date": "2026-11-13"
   }
 ]
