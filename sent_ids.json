@@ -743,5 +743,65 @@
     "id": "https://news.hada.io/topic?id=37034",
     "type": "community",
     "date": "2026-11-13"
+  },
+  {
+    "id": "2611.16404",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "2611.16395",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "2611.16405",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "2611.15445",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "2611.16795",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "2611.14320",
+    "type": "paper",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "type": "release",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.23.0",
+    "type": "release",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "type": "community",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+    "type": "community",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "type": "community",
+    "date": "2026-11-16"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+    "type": "community",
+    "date": "2026-11-16"
   }
 ]
