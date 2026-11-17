@@ -803,5 +803,75 @@
     "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
     "type": "community",
     "date": "2026-11-16"
+  },
+  {
+    "id": "2611.17921",
+    "type": "paper",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "2611.17814",
+    "type": "paper",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "2611.18482",
+    "type": "paper",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "2611.18516",
+    "type": "paper",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "2611.18244",
+    "type": "paper",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.34.0",
+    "type": "release",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.918-beta",
+    "type": "release",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
+    "type": "release",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://github.com/openai/openai-python/releases/tag/v3.52.0",
+    "type": "release",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://huggingface.co/blog/openrouter",
+    "type": "blog",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50513215",
+    "type": "community",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50507303",
+    "type": "community",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50520270",
+    "type": "community",
+    "date": "2026-11-17"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37237",
+    "type": "community",
+    "date": "2026-11-17"
   }
 ]
