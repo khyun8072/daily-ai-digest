@@ -1033,5 +1033,90 @@
     "id": "https://news.hada.io/topic?id=37362",
     "type": "community",
     "date": "2026-11-19"
+  },
+  {
+    "id": "2611.24283",
+    "type": "paper",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "2611.23606",
+    "type": "paper",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "2611.23710",
+    "type": "paper",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "2611.23388",
+    "type": "paper",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "2611.24849",
+    "type": "paper",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.920-beta",
+    "type": "release",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://huggingface.co/briaai/RMBG-3.0",
+    "type": "release",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+    "type": "release",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.8.4",
+    "type": "release",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+    "type": "release",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://huggingface.co/blog/moe-expert-streaming",
+    "type": "blog",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "type": "blog",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "type": "blog",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37415",
+    "type": "community",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50552424",
+    "type": "community",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50561508",
+    "type": "community",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50564159",
+    "type": "community",
+    "date": "2026-11-20"
   }
 ]
