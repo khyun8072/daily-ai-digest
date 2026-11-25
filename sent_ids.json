@@ -1,90 +1,5 @@
 [
   {
-    "id": "2610.30128",
-    "type": "paper",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "2610.29138",
-    "type": "paper",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "2610.29523",
-    "type": "paper",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "2610.29722",
-    "type": "paper",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "2610.29939",
-    "type": "paper",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
-    "type": "release",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/huggingface/transformers/releases/tag/v5.20.0",
-    "type": "release",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.909-beta",
-    "type": "release",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.9",
-    "type": "release",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
-    "type": "release",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-    "type": "blog",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "type": "blog",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://lastmuseum.com/",
-    "type": "community",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://github.com/NVIDIA/OpenShell",
-    "type": "community",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35651",
-    "type": "community",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35752",
-    "type": "community",
-    "date": "2026-10-23"
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35785",
-    "type": "community",
-    "date": "2026-10-23"
-  },
-  {
     "id": "2610.30612",
     "type": "paper",
     "date": "2026-10-26"
@@ -1118,5 +1033,100 @@
     "id": "https://news.ycombinator.com/item?id=50564159",
     "type": "community",
     "date": "2026-11-20"
+  },
+  {
+    "id": "2611.30662",
+    "type": "paper",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "2611.28645",
+    "type": "paper",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "2611.29613",
+    "type": "paper",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "2611.30069",
+    "type": "paper",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "2611.26863",
+    "type": "paper",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+    "type": "release",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://github.com/huggingface/transformers/releases/tag/v5.24.0",
+    "type": "release",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://github.com/unslothai/unsloth/releases/tag/v0.1.924-beta",
+    "type": "release",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://github.com/ollama/ollama/releases/tag/v0.40.18",
+    "type": "release",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+    "type": "release",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "type": "blog",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://huggingface.co/blog/agentic-evals",
+    "type": "blog",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://huggingface.co/blog/XijieGong/loop-behind-rethinking-where-extra-loops-pay-off-i",
+    "type": "blog",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://toss.tech/article/multi-task-learning-in-finance",
+    "type": "korea_blog",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50633922",
+    "type": "community",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50629962",
+    "type": "community",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50627340",
+    "type": "community",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50629231",
+    "type": "community",
+    "date": "2026-11-25"
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37745",
+    "type": "community",
+    "date": "2026-11-25"
   }
 ]
